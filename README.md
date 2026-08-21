@@ -311,7 +311,7 @@ because the character `c` is lowercase.
 
 ---
 
-# 🖥️ Wrapper Classes Exercise Output
+# Wrapper Classes Exercise Output
 
 The following image shows the execution of the wrapper classes exercise.
 
@@ -425,9 +425,3 @@ num3 como string : 272800.0
 ```
 
 The output demonstrates how primitive values can be stored in wrapper objects and converted into different representations.
-
----
-
-# 📄 License
-
-This project is intended for educational purposes.
